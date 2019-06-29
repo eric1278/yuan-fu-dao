@@ -4,6 +4,8 @@
 
 - like this: f = open('1.txt', 'r')
 
+f is a object. A instance of the "open" class
+
  First, you should have the "1.txt" file. The parameter "r" is the abbreviation for "read".
  
  except "r", you can still fill :
@@ -16,3 +18,5 @@
  
  P.S:
  the "+" stands for added. which should be added in the end of the string.
+
+Then, another method
